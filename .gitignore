@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+DefaultUnityTemplate/Library*
+DefaultUnityTemplate/Temp*
+DefaultUnityTemplate/Packages/nuget-packages*
+DefaultUnityTemplate/UserSettings*
+DefaultUnityTemplate/Builds*
